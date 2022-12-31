@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>“笔记” on Code as Life!🙂</title>
+    <link>https://vanguo.tech/tags/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in “笔记” on Code as Life!🙂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vanguo.tech/tags/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JavaScript小记</title>
+      <link>https://vanguo.tech/dev/js/javascript%E5%B0%8F%E8%AE%B0/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/dev/js/javascript%E5%B0%8F%E8%AE%B0/</guid>
+      <description>学习JS的网站：https://www.freecodecamp.org/ 《你不知道的JavaScript》小记 词法作用域 词法作用域是一种静</description>
+    </item>
+    
+  </channel>
+</rss>

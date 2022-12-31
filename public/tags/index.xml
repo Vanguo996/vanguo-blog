@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Code as Life!🙂</title>
+    <link>https://vanguo.tech/tags/</link>
+    <description>Recent content in Tags on Code as Life!🙂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vanguo.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“信息聚合”</title>
+      <link>https://vanguo.tech/tags/%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“总结”</title>
+      <link>https://vanguo.tech/tags/%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“笔记”</title>
+      <link>https://vanguo.tech/tags/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://vanguo.tech/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://vanguo.tech/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://vanguo.tech/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://vanguo.tech/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://vanguo.tech/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

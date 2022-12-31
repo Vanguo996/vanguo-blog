@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code as Life!🙂</title>
+    <link>https://vanguo.tech/</link>
+    <description>Recent content on Code as Life!🙂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://vanguo.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

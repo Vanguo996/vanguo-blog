@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>终身学习及自我提升系列文章 on Code as Life!🙂</title>
+    <link>https://vanguo.tech/self/</link>
+    <description>Recent content in 终身学习及自我提升系列文章 on Code as Life!🙂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://vanguo.tech/self/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我们为什么需要信息聚合工具</title>
+      <link>https://vanguo.tech/self/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/self/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E5%B7%A5%E5%85%B7/</guid>
+      <description>我们处在一个信息爆炸的时代，个人注意力被各路信息不断分散，特别是自媒体短视频的出现，人们总是在被动地接受信息——被大数据推荐算法“投喂”，甚至被监听。
+表面上人们在不断“得到”：从推荐算法中接收新内容，扩展认知边界，获得快乐。 但实际上人们在不断“失去”：失去主动选择的能力、主动探索新世界的能力，主动思考的能力。
+什么是RSS？ Really Simple Syndication(RSS)，是一种信息聚合的格式规范。个人认为它最重大的意义是：
+将信息获取的主动权交给用户：用户可以自由订阅信息源的RSS 更加高效、优雅地信息获取体验：整合多个渠道的信息，并过滤垃圾信息 了解更多： RSS介绍 RSS使用技巧 什么是RSSHub？ RSSHub，一个RSS生成器</description>
+    </item>
+    
+    <item>
+      <title>2022年终总结</title>
+      <link>https://vanguo.tech/self/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanguo.tech/self/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+      <description>在工作时，不能只顾自己的一亩三分地，要对自己做的事情有一个清晰的认知，它大概属于哪个位置、哪个阶段，怎么样可以做的更好？
+结合我这些年的工作内容、业内大佬所做的事情，我把软件开发者的职业发展分这几个阶段：
+使用某个技术方向的一个点开发简单项目 使用某个技术方向的多个点及某条线，开发一个较为复杂的业务或系统 掌握某个方向的通用知识，有多个线的实践，可以从整体上认识和规划 不限于该方向，能从产品指标方面出发，提供全方位的技术支持业务角度，端到端关注指标 </description>
+    </item>
+    
+  </channel>
+</rss>

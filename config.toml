@@ -1,0 +1,168 @@
+baseURL = "https://vanguo.tech"
+title = "Vanguo's Blog"
+theme = "echo"
+# languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+# 自动检测是否包含中文/日文/韩文，该参数会影响摘要和字数统计功能，建议设置为true
+hasCJKLanguage = true
+# 设置页面生成形式，将默认的网站路径/修改成.html
+uglyURLs = true
+
+# paginate = 20
+# pygmentsStyle = "bw"
+# pygmentsCodeFences = true
+# pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[markup.highlight]
+codeFences=true
+guessSyntax=true
+hl_Lines = ""
+# lineNoStart = 1
+# lineNos = true
+# lineNumbersInTable = true
+noClasses = true
+style = "github-dark"
+tabWidth = 4
+
+[permalinks]
+posts = "/:filename"
+
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "atom"
+
+[services.rss]
+limit = 20
+
+[author]
+name = "Vanguo"
+avatar = "https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4"
+bio = "努力变成一名手艺人"
+homepage = "https://vanguo.tech/"
+
+[params]
+favicon = "https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4"
+keywords = "Hugo, theme, echo"
+description = "Hugo theme echo example site."
+toc = true
+navItems = [
+  ["首页", "/"],
+  ["归档", "/posts.html"],
+  ["学习", "/self.html"],
+  ["关于我", "/about.html"],
+]
+# rss 全文输出
+rssFullContent = true
+uglyURLs = true
+busuanzi = true # 是否使用不蒜子统计站点访问量
+staticCDNPrefix = "https://cdn.bootcss.com/font-awesome/5.11.2"
+extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+# profileAds = '<div class="p-4 mt-2 lg:mt-4 rounded shadow bg-white dark:bg-gray-800"><img class=" object-cover w-auto mx-auto mt-6" loading="lazy" src="" title="" alt=""></div>'
+notFoundAds = ''
+
+
+# Right To Left, shift content direction for languagues such as Arabic
+rtl = false
+# Specify light/dark colorscheme
+# Supported values:
+# "auto" (use preference set by browser)
+# "dark" (dark background, light foreground)
+# "light" (light background, dark foreground) (default)
+colorScheme = "auto"
+# Hide the toggle button, along with the associated vertical divider
+hideColorSchemeToggle = false
+# Series see also post count
+maxSeeAlsoItems = 5
+# Custom CSS
+customCSS = []
+# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+customSCSS = []
+# Custom JS
+customJS = []
+
+[social]
+github = "https://github.com/vanguo996/"
+twitter = "https://twitter.com/vanguo1/"
+rss = "/atom.xml"
+
+# If you want to use fathom(https://usefathom.com) for analytics, add this section
+# [params.fathomAnalytics]
+# siteID = "ABCDE"
+# serverURL = "analytics.example.com" # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+
+# If you want to use plausible(https://plausible.io) for analytics, add this section
+# [params.plausibleAnalytics]
+# domain = "example.com"
+# serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+
+# If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
+# [params.goatCounter]
+# code = "code"
+
+# If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
+# [params.cloudflare]
+# token = "token"
+
+# If you want to use Matomo(https://matomo.org) for analytics, add this section
+# [params.matomo]
+# siteID = "ABCDE" # Default value is "1", overwrite this if you are cloud-hosting
+# serverURL = "analytics.example.com" # For cloud-hosting, use provided URL, e.g. example.matomo.cloud
+
+# If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
+# [params.googleTagManager]
+# id = "gid"
+
+# If you want to use Application Insights(https://azure.com/) for analytics, add this section
+# [params.applicationInsights]
+# connectionString = "connectionString"
+
+
+# [taxonomies]
+# category = "categories"
+# series = "series"
+# tag = "tags"
+# author = "authors"
+
+# [[params.social]]
+# name = "Github"
+# icon = "fa fa-2x fa-github"
+# weight = 1
+# url = "https://github.com/vanguo996/"
+
+# [[params.social]]
+# name = "Twitter"
+# icon = "fa fa-2x fa-twitter"
+# weight = 2
+# url = "https://twitter.com/vanguo1/"
+
+
+# [languages.zh-cn]
+#     languagename = "Chinese"
+#     title = "Code as Life!🙂"
+
+#     [languages.zh-cn.menu]
+#         [[languages.zh-cn.menu.main]]
+#             name = "关于"
+#             weight = 1
+#             url = "/about/"
+#         [[languages.zh-cn.menu.main]]
+#             name = "学习"
+#             weight = 2
+#             url  = "/self/"
+#         [[languages.zh-cn.menu.main]]
+#             name = "技术"
+#             weight = 3
+#             url  = "/dev/"
+#         # [[languages.zh-cn.menu.main]]
+#         #     name = "投资"
+#         #     weight = 4
+#         #     url  = "/money/"
+#         [[languages.zh-cn.menu.main]]
+#             name = "个人项目"
+#             weight = 4
+#             url  = "/project/"
+#         [[languages.zh-cn.menu.main]]
+#             name = "长期目标"
+#             weight = 5
+#             url  = "/goal/"

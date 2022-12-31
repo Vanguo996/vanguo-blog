@@ -1,0 +1,6 @@
+.obsidian
+node_modules
+public
+resources
+layouts
+.hugo_build.lock

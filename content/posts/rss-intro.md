@@ -1,7 +1,7 @@
 ---
 title: "我们为什么需要信息聚合工具？"
 date: 2022-12-30
-tags: [信息聚合,rss]
+tags: [技术分享,信息聚合,rss]
 keywords: ""
 ---
 
@@ -23,5 +23,9 @@ Really Simple Syndication(RSS)，是一种信息聚合的格式规范。个人�
 - [RSS使用技巧](https://diygod.me/ohmyrss)
 
 ## 什么是RSSHub？
-[RSSHub](https://docs.rsshub.app/)，一个RSS生成器
-
+[RSSHub](https://docs.rsshub.app/)，是一个RSS生成器，可以通过docker一键部署至服务端。
+```sh
+docker run -d --name rsshub -p 1200:1200 diygod/rsshub
+```
+客户端可以通过各种[路由规则](https://docs.rsshub.app/social-media.html)订阅消息。
+iOS端还有一个应用叫做[RSSBud](https://github.com/Cay-Zhang/RSSBud)，直接省去了查找RSS文档的过程，完美诠释万物皆可RSS。

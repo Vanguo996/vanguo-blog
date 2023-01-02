@@ -1,7 +1,7 @@
 ---
 title: "给自己的网站添加ssl证书"
 date: 2022-12-22
-tags: [技术,ssl]
+tags: [技术分享,ssl]
 keywords: "ssk证书, 自建网站"
 ---
 ## SSL/TLS通用模型

@@ -1,7 +1,7 @@
 ---
 title: "nginx笔记"
 date: 2022-12-27
-tags: [notes]
+tags: [笔记]
 keywords: ""
 ---
 

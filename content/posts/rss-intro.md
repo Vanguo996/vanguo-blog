@@ -4,7 +4,7 @@ date: 2022-12-30
 tags: [技术分享,信息聚合,rss]
 keywords: ""
 ---
-
+## 被动—>主动
 我们处在一个信息爆炸的时代，个人注意力被各路信息不断分散，特别是自媒体短视频的出现，人们总是在被动地接受信息——被大数据推荐算法“投喂”，甚至被监听。
 
 表面上人们在不断“得到”：从推荐算法中接收新内容，扩展认知边界，获得快乐。
@@ -23,9 +23,24 @@ Really Simple Syndication(RSS)，是一种信息聚合的格式规范。个人�
 - [RSS使用技巧](https://diygod.me/ohmyrss)
 
 ## 什么是RSSHub？
-[RSSHub](https://docs.rsshub.app/)，是一个RSS生成器，可以通过docker一键部署至服务端。
+[RSSHub](https://docs.rsshub.app/)，一个RSS生成器，理念是万物皆可RSS。
+
+## RSS订阅实践
+通过docker一键部署至服务端。
 ```sh
-docker run -d --name rsshub -p 1200:1200 diygod/rsshub
+	docker run -d --name rsshub -p 1200:1200 diygod/rsshub
 ```
-客户端可以通过各种[路由规则](https://docs.rsshub.app/social-media.html)订阅消息。
-iOS端还有一个应用叫做[RSSBud](https://github.com/Cay-Zhang/RSSBud)，直接省去了查找RSS文档的过程，完美诠释万物皆可RSS。
+部署完成后，客户端可以通过各种[路由规则](https://docs.rsshub.app/social-media.html)订阅消息：
+
+- 订阅推特：
+```
+	https://rsshub.vanguo.tech/twitter/user/<user_id>
+```
+- 订阅少数派某个标签：
+```
+	https://rsshub.vanguo.tech/sspai/tags/<tag_name>
+```
+
+也可以通过官方链接https://rsshub.app来订阅，但是对**反爬机制比较严格**的网站来说还是建议自建RSSHub
+
+iOS端还有一个应用叫做[RSSBud](https://github.com/Cay-Zhang/RSSBud)，直接省去了查找RSS文档的过程，完美诠释万物皆可RSS。但这种一键订阅操作的缺点就是订阅成功率不高。

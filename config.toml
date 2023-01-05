@@ -49,7 +49,7 @@ toc = true
 navItems = [
   ["首页", "/"],
   ["归档", "/posts.html"],
-  ["学习", "/self.html"],
+  ["友情链接", "/self.html"],
   ["关于我", "/about.html"],
 ]
 # rss 全文输出
@@ -82,8 +82,9 @@ customSCSS = []
 customJS = []
 
 [social]
-github = "https://github.com/vanguo996/"
-twitter = "https://twitter.com/vanguo1/"
+github = "vanguo996"
+twitter = "vanguoo"
+telegram = "vanguoo"
 rss = "/atom.xml"
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section

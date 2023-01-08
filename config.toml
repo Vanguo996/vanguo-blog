@@ -1,5 +1,5 @@
 baseURL = "https://vanguo.tech"
-title = "Vanguo's Blog"
+title = "vanguoo"
 theme = "echo"
 # languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"
@@ -36,7 +36,7 @@ baseName = "atom"
 limit = 20
 
 [author]
-name = "Vanguo"
+name = "vanguoo"
 avatar = "https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4"
 bio = "努力变成一名手艺人"
 homepage = "https://vanguo.tech/"

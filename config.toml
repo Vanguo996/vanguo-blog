@@ -37,12 +37,13 @@ limit = 20
 
 [author]
 name = "vanguoo"
-avatar = "https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4"
-bio = "努力变成一名手艺人"
+avatar = "https://pb.vanguo.tech/api/files/ge0cpwgmab5vb9s/501napnph9033bj/3_eca63_ad_4247_4390_b9_f2_bf150_acd4717_0KyIxr5aRw.jpeg"
+bio = "慢"
 homepage = "https://vanguo.tech/"
 
+# https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4
 [params]
-favicon = "https://avatars.githubusercontent.com/u/55241884?s=400&u=0012781cbff266f14a595637441833f7ebb16664&v=4"
+favicon = "https://pb.vanguo.tech/api/files/ge0cpwgmab5vb9s/se308frxxi8n2vr/20230105192004_CPKf0IWkb7.jpg"
 keywords = "Hugo, theme, echo"
 description = "Hugo theme echo example site."
 toc = true
@@ -82,7 +83,7 @@ customSCSS = []
 customJS = []
 
 [social]
-github = "vanguo996"
+github = "vanguoo"
 twitter = "vanguoo"
 telegram = "vanguoo"
 rss = "/atom.xml"

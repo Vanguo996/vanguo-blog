@@ -1,5 +1,5 @@
 {{ define "main" }}
 {{- if eq .Params.type "about" -}} {{ partial "about.html" . }} 
-{{else if eq .Params.type "self" -}} {{ partial "self.html" . }} 
-{{ else -}} {{ partial "post.html" . }} {{ end -}}
+{{- else if eq .Params.type "self" -}} {{ partial "selfs.html" . }} 
+{{- else -}} {{ partial "post.html" . }} {{ end -}}
 {{ end }}

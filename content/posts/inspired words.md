@@ -1,6 +1,6 @@
 ---
 title: "碎言"
-date: 2023-01-06
+date: 2023-01-10
 tags: [碎言]
 keywords: ""
 ---
@@ -8,13 +8,37 @@ keywords: ""
 - 我看到很多人想去面試程序員崗位，他們做的準備是大量地刷 LeetCode，看所謂的「面經」... 但是，當大家都這麼做時，你也這麼做就沒什麼突出。我建議一個很有效、很突出的方法： 
 ＊寫一本技術書出版，面試時當場送書給面試官； 
 ＊拿出手機，向面試官展示你寫的 App，彰顯你是 Full-Stack 的技術人才。
-[来自twitter](https://twitter.com/CaiXueYong/status/1610963845308362752)：
+[来自twitter](https://twitter.com/CaiXueYong/status/1610963845308362752)
 
 - 閱讀型學習的人，和聽課型學習的人，最大的差異是什麼？我認為是「動腦的程度」。喜歡透過閱讀學習的人，會一邊學習，一邊主動調動腦中的經驗，做各種認知的比對，這時候甚至會產生質疑、顛覆、恍然大悟，這對加強腦部知識的建立有很大的幫助。聽課型學習的人，無法這樣全面調動腦部，常常聽過就忘了。
 [来自twitter](https://twitter.com/CaiXueYong/status/1610961108789252096)
 
-
+[来自podcast-WebWorker](https://www.xiaoyuzhoufm.com/episode/634f61dc2a992d56e91e61dc?s=eyJ1IjogIjYzYjUwMGZmZWRjZTY3MTA0YTIzN2RhNyJ9)
 - 过多的优化是万恶之源，MVP是独立开发者开发过程中非常重要的环节。如果这个MVP有价值，那么就投入开发精力，而如果没有经过市场的验证，那么这个产品就可以放弃。
 - 技术够用就行，能够cover业务场景就可以。关键是问题有没有被解决？
-[来自podcast-WebWorker](https://www.xiaoyuzhoufm.com/episode/634f61dc2a992d56e91e61dc?s=eyJ1IjogIjYzYjUwMGZmZWRjZTY3MTA0YTIzN2RhNyJ9)
 
+[CodeChina2022年度总结](https://codechina.org/2023/01/2022-blog/)
+- 我这些年，聊技术以外的东西很多。纯技术的很少。有些东西，写起来太麻烦。有些东西，又怕写起来太基础。正好我嫌麻烦的是左耳朵耗子爱写的，我嫌基础的，是阮一峰爱写的。他们两个证明，不管是麻烦的东西，还是基础的东西，只要长期耕耘，也会有影响和收获的。
+- 所以，这两个实例，告诉我，虽然Blog的收益很难跟微信公众号做到足部腰部相比。但是Blog的很大一部分流量是来自于长尾的搜索流量，其实更接近于睡后收入。也更接近于我的追求。
+- 如果能写出，有长期价值的内容，那么有些内容每年都不断的从搜索引擎给你的Blog带来流量和价值。
+
+[知行小酒馆-E45](https://www.xiaoyuzhoufm.com/episode/62bea93debfc753783b1f7eb?s=eyJ1IjogIjYzYjUwMGZmZWRjZTY3MTA0YTIzN2RhNyJ9)
+- 在学生时代，生活费花的是自己的钱，大件消费花爸妈的钱，这样的观念是错误的，我们需要建立一个属于自己的账本，锻炼自己独立管钱的能力。
+- 降低自己的伪需求：
+1. 如果花更多的钱去提升那一部分不需要的生活品质，那么结果可能是让自己**没有足够的时间**去享受品质的生活。
+2. 不必要为正在飞快变化的世界感到焦虑，从而去创建自己的伪需求，要有自己定力，自己的节奏。
+- 我们投资了某一个能够创造正向价值的公司，然后由公司生产出效益，所以我们投资的钱得到额外利润，投资理财就是把我们已经有的人力资产转换为金融资产。
+- 也谈钱：要放大自己的财富总量，不仅要关注如何理财，**更重要的是提升自己的人力资产**
+
+[知行小酒馆-也谈钱专访](https://www.xiaoyuzhoufm.com/episode/620f5018e5cb62fa28306593?s=eyJ1IjogIjVlYzY5ZTBmMjgzN2IyMDg1ZGZkYzZmOCJ9)
+- 财务自由的目标不是数字而是永续的现金流；数字是本金，而给我们自由的感觉来自**支配财富的能力**
+- 欲望控制在资源之下，那么就是自由的。
+- 财务自由实践者遭遇的问题几乎都不是财务问题；财务自由不会去改变一个人，只会让他更像自己。
+
+[what up web3 - EP0](https://www.xiaoyuzhoufm.com/episode/623214f69b0d0faff3f5fdea?s=eyJ1IjogIjYzYjUwMGZmZWRjZTY3MTA0YTIzN2RhNyJ9)
+
+[无人知晓 - EP19](https://www.xiaoyuzhoufm.com/episode/635531f22a992d56e91e6572?s=eyJ1IjogIjYzYjUwMGZmZWRjZTY3MTA0YTIzN2RhNyJ9)
+
+- 思考是运动的一种形式，关注自己思考的过程，记忆是思考的残留物
+
+- 让知识停留在意识中足够长的时间，让脑海里的想的事情变成文字，让大量的信息在意识中停留了足够长的时间，这样的学习才更有利于提升认知，这也是费曼学习法的原理
